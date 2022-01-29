@@ -21,7 +21,7 @@ python jsonparser.py csv "Movie-Dataset-Latest (1).csv" "output.json"
 
 ## Second Method : using Django Framework and TestCase :--
 
-### Feature 1: Search for a movie in a csv
+### Both features in the same project but two different apps
 #### 1) Create virtual environment :
 
     ```python
